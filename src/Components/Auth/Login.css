@@ -1,0 +1,24 @@
+.main-login {
+  display: flex;
+}
+
+.image-section {
+  width: 60%;
+  background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Flucknow.iiitiansnetwork.com%2F&psig=AOvVaw0qEf-3TY3E5CWq76_km6U0&ust=1630041088101000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCGl7n2zfICFQAAAAAdAAAAABAQ");
+}
+
+.login-form-section {
+  background-color: #f7f3eb;
+  color: #05192d;
+  background-position: center -240px;
+  background-repeat: no-repeat;
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  border: 5px;
+}
+
+main,
+section {
+  margin: 0;
+}
