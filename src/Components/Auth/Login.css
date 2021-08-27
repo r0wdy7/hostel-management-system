@@ -4,16 +4,15 @@
 
 .image-section {
   width: 60%;
+  opacity: 0.7;
   background: url("https://lucknow.iiitiansnetwork.com/img/Lucknow/3.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .login-form-section {
-  background-color: #f7f3eb;
+  background-image: url("https://i.pinimg.com/originals/48/65/8b/48658b284e37b9d5bb354213847be3b1.jpg");
   color: #05192d;
-  background-position: center -240px;
-  background-repeat: no-repeat;
   display: flex;
   width: 40%;
   flex-direction: column;

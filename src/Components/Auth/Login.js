@@ -7,6 +7,7 @@ const Login = () => {
     <main className="main-login">
       <section className="image-section">
       </section>
+      <section className="image-section"></section>
       <section className="login-form-section">
         <LoginForm />
       </section>
