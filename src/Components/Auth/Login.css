@@ -4,7 +4,9 @@
 
 .image-section {
   width: 60%;
-  background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Flucknow.iiitiansnetwork.com%2F&psig=AOvVaw0qEf-3TY3E5CWq76_km6U0&ust=1630041088101000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCGl7n2zfICFQAAAAAdAAAAABAQ");
+  background: url("https://lucknow.iiitiansnetwork.com/img/Lucknow/3.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .login-form-section {
